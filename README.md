@@ -27,12 +27,14 @@ LOOP(number of simulations)
 
 
 ## Results
-Number of games:          100.000 (for each search percentage)
-Incremental percentage:   0.01
-Start percentage:         0.01
-End percentage:           0.99
+Number of games: 100.000 (for each search percentage)
+Incremental percentage: 0.01
+Start percentage: 0.01
+End percentage: 0.99
 
 Best percentage od search to best win probability: 37%-39%
+
+![Simulation output](https://github.com/gui-h-and/37-rule/blob/master/output%20simulation.png)
 
 
 
