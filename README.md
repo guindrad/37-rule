@@ -3,13 +3,14 @@ Simulation about the Secretary Problem (37% rule). Developed in python.
 
 
 ## Problem
-Select the best option when we don't have any information about the population.
+The secretary problem demonstrates a scenario involving optimal stopping theory. The goal is to select the best option when we don't have any information about the population.
+
 https://en.wikipedia.org/wiki/Secretary_problem
 https://www.businessinsider.com/best-age-to-get-married-is-26-2017-2
 https://www.washingtonpost.com/news/wonk/wp/2016/02/16/when-to-stop-dating-and-settle-down-according-to-math/
 
 
-## Solution
+## Solution (Pseudocode)
 
 ```
 LOOP(number of simulations)
@@ -32,7 +33,7 @@ Incremental percentage: 0.01
 Start percentage: 0.01
 End percentage: 0.99
 
-Best percentage od search to best win probability: 37%-39%
+Best choice probability: 37%-39%
 
 ![Simulation output](https://github.com/gui-h-and/37-rule/blob/master/output%20simulation.png)
 
